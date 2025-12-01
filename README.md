@@ -2,7 +2,7 @@
 
 **Authors:** Roberto Nai, Emilio Sulis, Guido Boella, Adriana Boccuzzi
 
-**Journal:** Journal of Medical Systems [https://link.springer.com/journal/10916](https://link.springer.com/journal/10916)
+**Journal:** Journal of Medical Systems ([https://link.springer.com/journal/10916](https://link.springer.com/journal/10916))
 
 ## Abstract
 

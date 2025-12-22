@@ -15,6 +15,7 @@
 *Conclusion.* The proposed general framework provides analytical understanding of ED workflows without replacing clinical judgment or decision-making responsibility. By integrating predictive analytics, LLM-based representations, and explainability within a single pipeline, the approach establishes a foundation for future extensions toward broader evaluation, additional analytical tasks, and potential operational use in healthcare settings.
 
 ## Code Availability
+### ED Dashboard:
 ### LLM narratives:
 ### PPM with NIRDIZATI:
 ### PPM with Embeddings: 
